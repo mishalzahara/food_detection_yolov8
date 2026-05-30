@@ -1,0 +1,23 @@
+# YOLOv8 Dataset Configuration for Food Detection
+# -----------------------------------------------
+# Update 'path' to match your local dataset root directory.
+# For Google Colab, use the full Drive path shown below.
+# For local runs, update to your absolute path.
+
+path: /content/drive/MyDrive/Wajahat_Project/Dataset_Split  # dataset root dir
+train: train/images   # train images (relative to 'path')
+val: test/images      # val/test images (relative to 'path')
+
+# Classes
+nc: 10  # number of classes
+names:
+  - Breads
+  - Curry
+  - Pizza
+  - Rice
+  - Roti_Chappati
+  - Cake
+  - Drink
+  - Egg
+  - Fruit
+  - Salad
