@@ -33,10 +33,7 @@ By combining data quality improvement with modern object detection techniques, t
 - [Pipeline Steps](#pipeline-steps)
 - [Configuration](#configuration)
 - [Model Comparison](#model-comparison)
-<img width="794" height="558" alt="WhatsApp Image 2026-05-30 at 11 28 14 AM" src="https://github.com/user-attachments/assets/351ae454-a7f3-45d0-92d7-2efe81809325" />
-<img width="794" height="558" alt="c192627d-b3e4-41e6-9468-bbf513c1bd61" src="https://github.com/user-attachments/assets/0e9344eb-bdb4-42a5-b839-c39411a13c02" />
-<img width="794" height="558" alt="f668ffa2-36d2-4740-902f-edf958848372" src="https://github.com/user-attachments/assets/9fc84a23-2714-4a11-9f62-83300c7fbdb9" />
-<img width="738" height="581" alt="0d2e57a6-3e8d-4aeb-a1a8-6f954132348a" src="https://github.com/user-attachments/assets/61f20198-2d5f-4aad-8038-62f7b2d5a857" />
+
 
 
 ---
@@ -107,6 +104,11 @@ food_detection_yolov8/
 | Salad         | 0.0024  | 0.0256  |
 
 > **Key finding:** YOLOv8m (150 epochs) more than doubles the mAP50 of YOLOv8n (50 epochs). Most classes improve significantly; `Breads` is the exception and warrants further investigation.
+>
+> <img width="794" height="558" alt="WhatsApp Image 2026-05-30 at 11 28 14 AM" src="https://github.com/user-attachments/assets/351ae454-a7f3-45d0-92d7-2efe81809325" />
+<img width="794" height="558" alt="c192627d-b3e4-41e6-9468-bbf513c1bd61" src="https://github.com/user-attachments/assets/0e9344eb-bdb4-42a5-b839-c39411a13c02" />
+<img width="794" height="558" alt="f668ffa2-36d2-4740-902f-edf958848372" src="https://github.com/user-attachments/assets/9fc84a23-2714-4a11-9f62-83300c7fbdb9" />
+<img width="738" height="581" alt="0d2e57a6-3e8d-4aeb-a1a8-6f954132348a" src="https://github.com/user-attachments/assets/61f20198-2d5f-4aad-8038-62f7b2d5a857" />
 
 ---
 
